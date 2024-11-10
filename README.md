@@ -49,7 +49,7 @@ The project is built with C++ and PlatformIO, allowing for a structured developm
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/smart-home-arduino.git
+   git clone https://github.com/Sayemahamed/smartHome.git
    cd smart-home-arduino
    ```
 
